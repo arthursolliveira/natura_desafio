@@ -1,0 +1,18 @@
+{
+  "name": "Natura-desafio",
+  "version": "1.0.0",
+  "description": "Cenário de teste end-to-end em Cypress",
+  "main": "index.js",
+  "author": "Arthur S. Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@fakerjs/gender": "^2.3.1",
+    "cypress": "^12.9.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6",
+    "faker-br": "^0.4.1",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
